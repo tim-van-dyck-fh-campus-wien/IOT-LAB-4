@@ -1,0 +1,14 @@
+/home/it-security/myRIOT/examples/gcoap/bin/samr21-xpro/gnrc_netif_init_devs/init.o: \
+ /home/it-security/myRIOT/sys/net/gnrc/netif/init_devs/init.c \
+ /home/it-security/myRIOT/examples/gcoap/bin/samr21-xpro/riotbuild/riotbuild.h \
+ /home/it-security/myRIOT/core/lib/include/kernel_defines.h \
+ /usr/lib/gcc/arm-none-eabi/9.2.1/include/stddef.h \
+ /usr/lib/gcc/arm-none-eabi/9.2.1/include/stdint.h
+
+/home/it-security/myRIOT/examples/gcoap/bin/samr21-xpro/riotbuild/riotbuild.h:
+
+/home/it-security/myRIOT/core/lib/include/kernel_defines.h:
+
+/usr/lib/gcc/arm-none-eabi/9.2.1/include/stddef.h:
+
+/usr/lib/gcc/arm-none-eabi/9.2.1/include/stdint.h:
